@@ -1,0 +1,6 @@
+ruby '2.5.1'
+source 'https://rubygems.org'
+gem 'sinatra'
+gem 'rack'
+gem 'shotgun'
+gem 'pry'
